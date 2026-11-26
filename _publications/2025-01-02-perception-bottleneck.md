@@ -3,7 +3,6 @@ title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-02-perception-bottleneck
-permalink: /publication/2025-01-02-perception-bottleneck
 excerpt: "First author: Junteng Liu. Published on Arxiv."
 date: 2025-01-01
 venue: 'Arxiv'
