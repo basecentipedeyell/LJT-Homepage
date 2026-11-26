@@ -41,7 +41,7 @@ Natural language processing and machine learning. Research interests include LLM
 
 ## Contact
 
-- Email: jliugi [at] connect [dot] ust [dot] hk
+- Email: 4210150777777777777
 - GitHub: Vicent0205
 - Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 - X (Twitter): @junteng88716710
