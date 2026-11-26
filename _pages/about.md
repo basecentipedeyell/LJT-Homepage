@@ -13,7 +13,7 @@ My research focuses on natural language processing and machine learning, with in
 
 ## Academic Background
 
-- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024–Present). I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor 4371911111111111111.
+- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024–Present). I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He.
 - **B.Eng.**, Shanghai Jiao Tong University (2020–2024).
 
 ## Research Experience
